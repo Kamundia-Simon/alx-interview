@@ -1,4 +1,4 @@
-#Lockboxes
+# Lockboxes
 
 You have n number of locked boxes in front of you. Each box is numbered sequentially from 0 to n - 1 and each box may contain keys to the other boxes.
 
@@ -25,7 +25,7 @@ print(canUnlockAll(boxes))
 
 boxes = [[1, 4], [2], [0, 4, 1], [3], [], [4, 1], [5, 6]]
 print(canUnlockAll(boxes))
----
+***
 carrie@ubuntu:~/0x01-lockboxes$
 carrie@ubuntu:~/0x01-lockboxes$ ./main_0.py
 True
